@@ -10,7 +10,7 @@ def mkdir(file_name):
     move_file.mkdir(file_name)
 
 
-mkdir("爱音麻里亚")
+mkdir("")
 move_file()
 
 

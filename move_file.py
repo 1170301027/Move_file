@@ -72,7 +72,6 @@ class Move_file():
                 print("Fail to allot : " + item)
             else:
                 continue
-
         print("Total count : " + str(total_count))
         total_count = len(list)
         print("Failed count : " + str(total_count))
